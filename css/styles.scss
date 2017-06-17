@@ -1,0 +1,63 @@
+/* Stylehsheet */
+@import url('https://fonts.googleapis.com/css?family=Kalam');
+
+body {
+    background-image: url(../img/snow-background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Kalam-Bold';
+    font-size: 3em;
+    color: #4f6ba3;
+}
+
+    .inbox {
+      max-width:800px;
+      margin:50px auto;
+      background:white;
+      border-radius:5px;
+      box-shadow: -6px 3px 55px 2px rgba(0,0,0,0.6);
+    }
+
+    .item {
+      display:flex;
+      align-items:center;
+      border-bottom: 1px solid #A6B9D9;
+    }
+
+    .item:last-child {
+      border-bottom:0;
+    }
+
+
+    input:checked + p {
+      background-color:#9EB0D4;
+      text-decoration: inherit;
+      color: #FFFFFF;
+    }
+
+    input[type="checkbox"] {
+      margin:40px;
+      background: #A6B9D9;
+    }
+
+    p {
+      margin:0;
+      padding:20px;
+      transition:background 0.2s;
+      flex:1;
+      font-family:'Kalam-Light';
+      font-size: 30px;
+      font-weight: 200;
+      border-left: 1px solid #D1E2FF;
+    }
+
+    img {
+        margin: 20px 30px 20px;
+        
+    
+    }
