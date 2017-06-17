@@ -119,7 +119,7 @@
 		"oA": 0,
 		"oAP": "\/img\/buddy-elf1.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/buddy-elf2.gif": {
 		"ft": 4194304,
@@ -127,7 +127,7 @@
 		"oA": 0,
 		"oAP": "\/img\/buddy-elf2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/buddy-elf3.gif": {
 		"ft": 4194304,
@@ -135,7 +135,7 @@
 		"oA": 0,
 		"oAP": "\/img\/buddy-elf3.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/buddy-elf4.gif": {
 		"ft": 4194304,
@@ -143,7 +143,7 @@
 		"oA": 0,
 		"oAP": "\/img\/buddy-elf4.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/buddy-elf5.gif": {
 		"ft": 4194304,
@@ -151,7 +151,7 @@
 		"oA": 0,
 		"oAP": "\/img\/buddy-elf5.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/img\/favicons\/android-icon-144x144.png": {
 		"ft": 32768,
@@ -159,8 +159,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/android-icon-144x144.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -170,8 +170,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/android-icon-192x192.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -181,8 +181,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/android-icon-36x36.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -192,8 +192,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/android-icon-48x48.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -203,8 +203,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/android-icon-72x72.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -214,8 +214,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/android-icon-96x96.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -225,8 +225,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/apple-icon-114x114.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -236,8 +236,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/apple-icon-120x120.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -247,8 +247,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/apple-icon-144x144.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -258,8 +258,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/apple-icon-152x152.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -269,8 +269,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/apple-icon-180x180.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -280,8 +280,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/apple-icon-57x57.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -291,8 +291,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/apple-icon-60x60.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -302,8 +302,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/apple-icon-72x72.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -313,8 +313,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/apple-icon-76x76.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -324,8 +324,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/apple-icon-precomposed.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -335,8 +335,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/apple-icon.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -352,8 +352,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/favicon-16x16.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -363,8 +363,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/favicon-32x32.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -374,8 +374,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/favicon-96x96.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -399,8 +399,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/ms-icon-144x144.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -410,8 +410,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/ms-icon-150x150.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -421,8 +421,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/ms-icon-310x310.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -432,8 +432,8 @@
 		"oA": 0,
 		"oAP": "\/img\/favicons\/ms-icon-70x70.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -444,7 +444,7 @@
 		"oAP": "\/img\/snow-background.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/index.html": {

@@ -1,20 +1,17 @@
 /* Stylehsheet */
 @import url("https://fonts.googleapis.com/css?family=Kalam");
-/* line 4, /Users/meredithhale/Desktop/check-if-relate/css/styles.scss */
 body {
   background-image: url(../img/snow-background.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
   background-attachment: fixed; }
 
-/* line 11, /Users/meredithhale/Desktop/check-if-relate/css/styles.scss */
 h1 {
   text-align: center;
   font-family: 'Kalam-Bold';
   font-size: 3em;
   color: #4f6ba3; }
 
-/* line 18, /Users/meredithhale/Desktop/check-if-relate/css/styles.scss */
 .inbox {
   max-width: 800px;
   margin: 50px auto;
@@ -22,28 +19,23 @@ h1 {
   border-radius: 5px;
   box-shadow: -6px 3px 55px 2px rgba(0, 0, 0, 0.6); }
 
-/* line 26, /Users/meredithhale/Desktop/check-if-relate/css/styles.scss */
 .item {
   display: flex;
   align-items: center;
   border-bottom: 1px solid #A6B9D9; }
 
-/* line 32, /Users/meredithhale/Desktop/check-if-relate/css/styles.scss */
 .item:last-child {
   border-bottom: 0; }
 
-/* line 37, /Users/meredithhale/Desktop/check-if-relate/css/styles.scss */
 input:checked + p {
   background-color: #9EB0D4;
   text-decoration: inherit;
   color: #FFFFFF; }
 
-/* line 43, /Users/meredithhale/Desktop/check-if-relate/css/styles.scss */
 input[type="checkbox"] {
   margin: 40px;
   background: #A6B9D9; }
 
-/* line 48, /Users/meredithhale/Desktop/check-if-relate/css/styles.scss */
 p {
   margin: 0;
   padding: 20px;
@@ -54,8 +46,5 @@ p {
   font-weight: 200;
   border-left: 1px solid #D1E2FF; }
 
-/* line 59, /Users/meredithhale/Desktop/check-if-relate/css/styles.scss */
 img {
   margin: 20px 30px 20px; }
-
-/*# sourceMappingURL=styles.css.map */
